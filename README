@@ -1,0 +1,12 @@
+Turntable hosting
+
+Backgorund: #f0f0f0
+
+Thumbnail: 20% size. 91% quality jpg
+	filter: blur(5px); -webkit-filter: blur(5px);
+
+Pace: Silver simple center
+
+Custom code:
+	viewer.style.filter = "";
+	viewer.style.webkitFilter = "";
